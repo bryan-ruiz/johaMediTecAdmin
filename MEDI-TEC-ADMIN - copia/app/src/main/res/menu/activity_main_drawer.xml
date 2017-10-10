@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/PrincipalItM"
+            android:title="@string/principal" />
+        <item
+            android:id="@+id/EnfermedadesItM"
+            android:title="@string/enfermedades" />
+        <item
+            android:id="@+id/SintomasItM"
+            android:title="@string/sintomas" />
+        <item
+            android:id="@+id/MedicinasItM"
+            android:title="@string/medicinas" />
+        <item
+            android:id="@+id/SalirItM"
+            android:title="@string/salir" />
+    </group>
+
+
+</menu>

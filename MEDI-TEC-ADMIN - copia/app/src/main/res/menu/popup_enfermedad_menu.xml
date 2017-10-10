@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuOpcionEditar"
+        android:title="Editar"
+        />
+    <item
+        android:id="@+id/menuOpcionEliminar"
+        android:title="Eliminar"
+        />
+    <item
+        android:id="@+id/menuOpcionPeligrosidad"
+        android:title="Asignar peligrosidad"
+        />
+    <item
+        android:id="@+id/menuOpcionAsignarSintoma"
+        android:title="Asignar sintoma"
+        />
+    <item
+        android:id="@+id/menuOpcionAsignarMedicamento"
+        android:title="Asignar medicamento"
+        />
+
+</menu>
